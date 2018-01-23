@@ -1,0 +1,27 @@
+/*Style the index.php*/
+nav .nav-bar-header{
+	background-color: green;
+	
+}
+
+div .nav-bar-header{
+background-color: green;
+color: blue;
+}
+
+table tr .separator{
+	display: block;
+	margin-bottom: 7px;
+}
+
+.val_error{
+	color: red;
+}
+
+body{
+	background-color: gray;
+}
+
+div .rounded-border{
+	border-radius: 10px ;
+}
